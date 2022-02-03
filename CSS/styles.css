@@ -1,3 +1,6 @@
-.jumbotron {
-    background-image: url('/IMG/mountains-bg.png')
-  }
+#jumbotron {
+  background: #ecf1f5 url("/IMG/mountains-bg.png") no-repeat center / contain;
+}
+.jumbotron h1{
+padding-top: 50px;
+}
